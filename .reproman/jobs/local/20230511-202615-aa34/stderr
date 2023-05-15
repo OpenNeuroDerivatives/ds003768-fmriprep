@@ -1,0 +1,16 @@
+Warning: Permanently added 'c139-141' (ECDSA) to the list of known hosts.
+WARNING (05/12/23 20:17:16): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.5455511.hostlist.SCtXs4He to get hosts
+starting job on c139-141
+starting job on c139-164
+starting job on c139-201
+starting job on c140-002
+starting job on c140-083
+starting job on c140-193
+starting job on c142-211
+starting job on c143-001
+starting job on c143-033
+slurmstepd: error: *** JOB 5455511 ON c139-141 CANCELLED AT 2023-05-13T12:21:22 ***
+Killed by signal 15.
+Killed by signal 15.
+Terminated

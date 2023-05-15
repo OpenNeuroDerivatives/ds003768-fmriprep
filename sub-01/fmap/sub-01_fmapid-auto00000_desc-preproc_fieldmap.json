@@ -1,0 +1,23 @@
+{
+  "AnatomicalReference": "sub-01_fmapid-auto00000_desc-magnitude_fieldmap.nii.gz",
+  "AssociatedCoefficients": [
+    "sub-01_fmapid-auto00000_desc-coeff0_fieldmap.nii.gz",
+    "sub-01_fmapid-auto00000_desc-coeff1_fieldmap.nii.gz"
+  ],
+  "B0FieldIdentifier": "auto_00000",
+  "IntendedFor": [
+    "func/sub-01_task-rest_run-1_bold.nii.gz",
+    "func/sub-01_task-rest_run-2_bold.nii.gz",
+    "func/sub-01_task-sleep_run-1_bold.nii.gz",
+    "func/sub-01_task-sleep_run-2_bold.nii.gz",
+    "func/sub-01_task-sleep_run-3_bold.nii.gz"
+  ],
+  "RawSources": [
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds003768-fmriprep/sourcedata/raw/sub-01/func/sub-01_task-rest_run-1_bold.nii.gz",
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds003768-fmriprep/sourcedata/raw/sub-01/func/sub-01_task-rest_run-2_bold.nii.gz",
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds003768-fmriprep/sourcedata/raw/sub-01/func/sub-01_task-sleep_run-1_bold.nii.gz",
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds003768-fmriprep/sourcedata/raw/sub-01/func/sub-01_task-sleep_run-2_bold.nii.gz",
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds003768-fmriprep/sourcedata/raw/sub-01/func/sub-01_task-sleep_run-3_bold.nii.gz"
+  ],
+  "Units": "Hz"
+}
