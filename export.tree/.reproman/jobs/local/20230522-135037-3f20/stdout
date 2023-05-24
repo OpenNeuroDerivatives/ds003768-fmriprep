@@ -1,0 +1,36 @@
+[0;34mREMORA Notification: [0;34m  GPU monitoring is active, but not on this node type. [0m 
+Launcher: Setup complete.
+
+------------- SUMMARY ---------------
+   Number of hosts:    1
+   Working directory:  /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds003768-fmriprep
+   Processes per host: 1
+   Total processes:    1
+   Total jobs:         1
+   Scheduling method:  dynamic
+
+-------------------------------------
+Launcher: Starting parallel tasks...
+Launcher: Task 0 running job 1 on c211-024.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds003768-fmriprep/.reproman/jobs/local/20230522-135037-3f20/runscript 0 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds003768-fmriprep/.reproman/jobs/local/20230522-135037-3f20/stdout.0 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds003768-fmriprep/.reproman/jobs/local/20230522-135037-3f20/stderr.0)
+Launcher: Job 1 completed in 21385 seconds.
+Launcher: Task 0 done. Exiting.
+Launcher: Done. Job exited without errors
+
+
+=============================== REMORA SUMMARY ===============================
+ Max Virtual  Memory Per Node :    44.72 GB
+ Max Physical Memory Per Node :    33.84 GB
+ Available Memory at time 0.0 :   177.56 GB
+ Total Elapsed Time           :  0d 5h 56m 32s 684ms
+------------------------------------------------------------------------------
+ Max IO Load / home1          :       0 IOPS       0 RD(MB/S)       0 WR(MB/S)
+ Max IO Load / scratch1       :       0 IOPS       0 RD(MB/S)       0 WR(MB/S)
+ Max IO Load / scratch2       :       0 IOPS       0 RD(MB/S)       0 WR(MB/S)
+ Max IO Load / scratch3       :       0 IOPS       0 RD(MB/S)       0 WR(MB/S)
+ Max IO Load / work2          :       0 IOPS       0 RD(MB/S)       0 WR(MB/S)
+==============================================================================
+ Sampling Period              : 10 seconds
+ Report Directory             : R=/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds003768-fmriprep/remora_5479323
+ Google Plots HTML Index Page : $R/remora_summary.html
+==============================================================================
+
